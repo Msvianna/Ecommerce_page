@@ -1,4 +1,4 @@
-/* class: usa-se (.) para machar no css e id: usa-se (#) para machar no css*/
+﻿/* class: usa-se (.) para machar no css e id: usa-se (#) para machar no css*/
 
 *{
     margin: 0;
@@ -9,7 +9,7 @@
 }
 
 :root{
-    --bg-color: #1d2631;
+    --bg-color: #34e7f8;
     --text-color: #fff;
     --main-color: #34e7f8;
     --other-color: #fcfcfc;
